@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Healthkare v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-01-13 17:35+0530\n"
+"Last-Translator: admin <onistaweb@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ healthkare
+#: 404.php:34
+msgid " The page is not exist!"
+msgstr ""
+
+# @ healthkare
+#: 404.php:41
+msgid "Just two good old boys never meaning no harm beats all you have ever saw been in trouble with the law since the day they was born so the most of day this is the tale of our castaways they re here for a long long time"
+msgstr ""
+
+# @ healthkare
+#: archive.php:31 index.php:30 search.php:29 
+msgid "<i class="fa fa-angle-double-left"></i> Prev"
+msgstr ""
+
+# @ healthkare
+#: archive.php:32 index.php:31 search.php:30
+msgid "Next <i class="fa fa-angle-double-right"></i>"
+msgstr ""
+
+# @ healthkare
+#: archive.php:33 index.php:32 search.php:31 template-parts/content.php:45 template-parts/content-page.php:26 template-parts/content-treatments.php:83
+msgid "Page"
+msgstr ""
+
+# @ healthkare
+#: comments.php:31
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+# @ healthkare
+#: comments.php:36
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+# @ healthkare
+#: comments.php:37
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+# @ healthkare
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+# @ healthkare
+#: searchform.php:5
+msgid "Enter a keyword..."
+msgstr ""
+
+# @ healthkare
+#: searchform.php:16
+msgid "Search Your Queries"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:22
+msgid "Featured"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:95
+msgid "0 Comment"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:96
+msgid "1 Comment"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:97
+msgid "% Comments"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:41 template-parts/content-page.php:22 template-parts/content-treatments.php:79
+msgid "Pages:"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:53
+msgid "Tags :"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:63
+msgid "Categories :"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:106
+msgid "share"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:135
+msgid "About "
+msgstr ""
+
+# @ healthkare
+#: template-parts/content.php:136
+msgid "Author"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-page.php:33
+msgid "Edit"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-treatments.php:37
+msgid "Treatment Details"
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-treatments.php:69
+msgid "Case "
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-treatments.php:70
+msgid "Description "
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-treatments.php:94
+msgid "Specialized "
+msgstr ""
+
+# @ healthkare
+#: template-parts/content-treatments.php:95
+msgid "Treatments "
+msgstr ""
+
+# @ healthkare
+#: template-parts/footer1.php:121 template-parts/footer1.php:126 template-parts/footer3.php:140 template-parts/header1.php:160 template-parts/header2.php:124 template-parts/header3.php:21
+msgid "Toggle navigation"
+msgstr ""
+
+# @ healthkare
+#: template-parts/footer1.php:152 template-parts/footer2.php:157 template-parts/footer3.php:123
+msgid "&copy; Copyrights "
+msgstr ""
+
+# @ healthkare
+#: template-parts/footer1.php:154 template-parts/footer2.php:159 template-parts/footer2.php:125
+msgid ". Health Kare All Rights Reserved"
+msgstr ""
+
+# @ healthkare
+#: template-parts/format-audio.php:18
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+# @ healthkare
+#: template-parts/format-video.php:23
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+ @ healthkare
+#: template-parts/header1.php:73
+msgid "Search Queries"
+msgstr ""
+
+ @ healthkare
+#: template-parts/header1.php:65 template-parts/header2.php:54
+msgid "Language"
+msgstr ""
+
+ @ healthkare
+#: template-parts/header1.php:181 template-parts/header2.php:71
+msgid "Appointment"
+msgstr ""
+
+ @ healthkare
+#: template-parts/header1.php:203 template-parts/header2.php:147 template-parts/header3.php:47
+msgid "Set The Menu"
+msgstr ""
+
+ @ healthkare
+#: template-parts/pageheader.php:56 template-parts/pageheader.php:88
+msgid "Blog"
+msgstr ""
+
+ @ healthkare
+#: template-parts/pageheader.php:59 template-parts/pageheader.php:91
+msgid "Page Not Found"
+msgstr ""
+
+ @ healthkare
+#: template-parts/pageheader.php:62 template-parts/pageheader.php:94
+msgid "search Results for: %s"
+msgstr ""
+
+ @ healthkare
+#: template-parts/colorswitcher.php:7
+msgid "Select Your Style"
+msgstr ""
+
+ @ healthkare
+#: template-parts/colorswitcher.php:9
+msgid "Choose Colour style"
+msgstr ""

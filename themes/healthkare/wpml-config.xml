@@ -1,0 +1,46 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">healthkare_treatments</custom-type>
+		<custom-type translate="1">mc4wp-form</custom-type>
+		<custom-type translate="1">product</custom-type>
+	</custom-types>
+	<custom-fields>
+        <custom-field action="copy">healthkare_treatments_tax</custom-field>
+		<custom-field action="copy">product_categories</custom-field>
+    </custom-fields>
+    <admin-texts>	
+        <key name="healthkare_option">
+			<key name="opt_logotype" />
+			<key name="opt_customtxt" />
+			<key name="opt_ftitle" />
+			<key name="opt_footer_copyright" />
+			<key name="opt_error_title" />
+			<key name="opt_error_content" />
+			<key name="opt_error_desc" />
+			<key name="opt_quality" />
+			<key name="opt_mission" />
+			<key name="opt_pricetable" />
+			<key name="opt_offer_one" />
+			<key name="opt_offer_two" />
+			<key name="opt_offer_three" />
+			<key name="opt_features_two" />
+			<key name="opt_features" />
+			<key name="opt_counter" />
+			<key name="opt_procedure" />
+			<key name="opt_testimonial_one" />
+			<key name="opt_testimonial_two" />
+			<key name="opt_testimonial_three" />
+			<key name="opt_department" />
+			<key name="opt_faq" />
+			<key name="opt_clients_one" />
+			<key name="opt_clients_two" />
+			<key name="opt_talented_doctor" />
+			<key name="opt_experience_doctor" />
+			<key name="opt_smart_team" />
+			<key name="opt_specialists_team" />
+			<key name="opt_experts_team" />
+        </key>
+        <key name="healthkare_option" />
+		<key name="blogname" />
+    </admin-texts>
+</wpml-config>
